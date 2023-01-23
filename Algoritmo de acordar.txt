@@ -1,0 +1,23 @@
+1-Abrir o olho
+2-Levantar da cama
+3-Ir até o banheiro
+4-Se a porta estiver fechada
+	1-Girar a maçaneta 360 graus
+	2-Empurrar a porta para frente
+	3-entrar no banheiro
+	2-Ir até a pia
+	3-Pegar a escova de dentes
+	4-Pegar a pasta de dentes
+	5-Colocar pasta na escova de dentes
+	6-Escovar os dentes com a escova de dentes por um tempo
+	7-Enxaguar a boca
+	8-Guardar a pasta de dentes e a escova de dentes
+5-Se a porta não estiver fechada
+	1-Apenas entrar no banheiro
+	2-Ir até a pia
+	3-Pegar a escova de dentes
+	4-Pegar a pasta de dentes
+	5-Colocar pasta na escova de dentes
+	6-Escovar os dentes com a escova de dentes por um tempo
+	7-Enxaguar a boca
+	8-Guardar a pasta de dentes e a escova de dentes
