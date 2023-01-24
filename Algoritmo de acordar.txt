@@ -1,4 +1,4 @@
-Inicio
+INICIO
 1-Abrir o olho;
 2-Levantar da cama;
 3-Ir até o banheiro;
@@ -17,4 +17,4 @@ Inicio
 10-Escovar os dentes com a escova de dentes por um tempo;
 11-Enxaguar a boca;
 12-Guardar a pasta de dentes e a escova de dentes;
-Fim
+FIM
